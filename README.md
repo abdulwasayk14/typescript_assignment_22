@@ -1,1 +1,1 @@
-# typescript_assignment_22_Internstional_Error
+# typescript_assignment_22_International_Error
