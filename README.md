@@ -1,1 +1,1 @@
-# typescript_assignment_22
+# typescript_assignment_22_Internstional_Error
